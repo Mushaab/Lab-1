@@ -1,0 +1,15 @@
+# Lab 1 - Basic Python Program
+
+## Description
+
+This project contains a basic Python program that demonstrates a simple print statement. The program prints the word "hello" to the console.
+
+## Features
+
+- Demonstrates a basic print statement in Python.
+
+## How to Run
+
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/Mushaab/Lab-1.git
